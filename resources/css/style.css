@@ -1,28 +1,28 @@
-html{font-family: Verdana;
+html {font-family: Verdana;
   background-color: Black;
   text-align: center;
 
   }
-h1{font-weight: normal;
+h1 {font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 
   }
-h2{font-weight: 300;
+h2 {font-weight: 300;
   font-size: 42px;
   color: white;
 
 }
-p{font-size: 21px;
+p {font-size: 21px;
   color: Gray;
 
 }
-.download{color: Aquamarine;
+.download {color: Aquamarine;
   font-size: 16px;
 
 }
-.span{text-align: right;
-  color: Gray;
-
+.footer {
+text-align: right;
+color: Gray;
 }
